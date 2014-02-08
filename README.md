@@ -1,4 +1,4 @@
-angularTextEditor
+AngularTextEditor
 =================
 
 Text Editor with AngularJS.
