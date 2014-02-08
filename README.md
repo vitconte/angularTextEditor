@@ -17,8 +17,10 @@ Solution: wrap jqueryte in a directive.
 <h2>Usage</h2>
 
 How use that? Simple 
-
-<textarea editable ng-model="..."></textarea> 
+<ul>
+<li>import the script: &lt;script src="/exp/client/scripts/directives/editable.js"&gt; &lt;/script&gt;</li>
+<li>add the attribute &lt;textarea editable ng-model="..."&gt; &lt;/textarea&gt; </li>
+</ul>
 
 Try it on jsFiddle: http://jsfiddle.net/vitconte/N93pg/ 
 
