@@ -18,11 +18,11 @@ Solution: wrap jqueryte in a directive.
 
 How to use it? Simple 
 <ul>
-<li>import the script: &lt;script src="angulartexteditor.js"&gt; &lt;/script&gt;</li>
 <li>import the script: &lt;script src="http://jqueryte.com/css/jquery-te.css"&gt; &lt;/script&gt;</li>
 <li>import the script: &lt;script src="http://jqueryte.com/js/jquery-te-1.4.0.min.js"&gt; &lt;/script&gt;</li>
 <li>import the script: &lt;script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js"&gt; &lt;/script&gt;</li>
 <li>import the script: &lt;script src="https://code.angularjs.org/1.2.9/angular-sanitize.min.js"&gt; &lt;/script&gt;</li>
+<li>import the script: &lt;script src="angulartexteditor.js"&gt; &lt;/script&gt;</li>
 <li>add the attribute &lt;textarea editable ng-model="..."&gt; &lt;/textarea&gt; </li>
 </ul>
 
